@@ -1,0 +1,11 @@
+{
+  "name": "craw-bilibili-subtitle",
+  "version": "1.0.0",
+  "description": "A little repo that help you craw all subtitle of a anime seasion on Bilibili and convert it to SRT (SubRip file format) format",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
